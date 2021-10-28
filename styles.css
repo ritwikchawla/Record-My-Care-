@@ -1,0 +1,89 @@
+#title {
+    background-color: #A2D2FF;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.first-heading{
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 4rem;
+    /* margin-left: 10%;
+    margin-top: 5%;  */
+}
+
+.tag-line{
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: lighter;
+    font-size: 2rem;
+    /* margin-left: 10%; */
+    color: white;
+}
+
+.custom{
+    /* margin-top: 2%;
+    padding-left: 12%; */
+    font-family: inherit;
+}
+
+
+
+.nav-item{
+    font-family: inherit;
+    font-weight: lighter;
+}
+
+.navbar{
+    margin-bottom: 1cm;
+}
+
+#features{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.features-heading{
+    font-size: 20px;
+}
+
+#plans{
+    background-color: #A2D2FF;
+    font-size: smaller;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.pricing{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.plans-heading{
+    font-size: 2rem;
+    font-weight: 200;
+    text-align: center;
+    color: white;
+}
+
+#contact-us{
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.cc{
+    font-weight: lighter;
+}
+
+.ic{
+    padding-top: 1%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
